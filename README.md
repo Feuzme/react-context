@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Description
+
+Mock up app to learn how to use context. We use it here to do light / dark theme switch.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
